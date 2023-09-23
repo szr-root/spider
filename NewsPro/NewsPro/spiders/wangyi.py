@@ -1,10 +1,11 @@
 import scrapy
-
+from NewsPro.NewsPro.items import NewsproItem
 
 class WangyiSpider(scrapy.Spider):
     name = "wangyi"
     allowed_domains = ["www.163.com"]
     start_urls = ["https://www.163.com"]
+    newsproitem = NewsproItem()
 
     def parse(self, response,*args,**kwargs):
         news_category_link_list = response.xpath('//li[contains(@class,"liw")]/a')
@@ -23,12 +24,11 @@ class WangyiSpider(scrapy.Spider):
         for news in news_list:
             news_title = news.xpath('./text()').extract()[0]
             news_link = news.xpath('.//@href').extract()[0]
-            # news_tag = news.xpath('./div[@class="news_tag"]/strong/a/text()').extract()[0]
-            # print(response.meta.get['categroy'],news_title,news_link)
+
             yield scrapy.Request(url=news_link,callback=self.get_news_detail,meta={"news_title":news_title})
 
     def get_news_detail(self,response):
-        
+
         print('进入详情')
-        news_content = response.xpath('//div[@class="post_body"]/p/text()').extact()
-        print(news_content)
+        news_content = response.xpath('//div[@class="post_body"]/p/text()').extract()
+        print(response.meta.get('news_title'),":::::::", ''.join(news_content))
