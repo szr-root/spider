@@ -1,0 +1,20 @@
+
+import aiohttp
+
+1.先写大致架构
+
+with aiohttp.ClientSession() as sess:
+    # 基于请求对象发起请求
+    # 此处的get是发起get请求，常用参数：url,headers,params,proxy
+    # post方法发起post请求，常用参数：url,headers,data,proxy
+    # 发现处理代理的参数和requests不一样（注意），此处处理代理使用proxy='http://ip:port'
+    with sess.get(url=url) as response:
+        page_text = response.text()
+        # text():获取字符串形式的响应数据
+        # read()：获取二进制形式的响应数据
+        return page_text
+
+
+2. 在第一步的基础上补充细节
+- 在每一个with前加上async关键字
+- 在阻塞操作前加上await关键字

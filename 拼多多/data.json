@@ -1,0 +1,2888 @@
+{
+  'has_more': True,
+  'data': {
+    'goods_list': [
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4gDrlcu03jVT01hDblxMQ4dgk9NBRbqYWJ5_LhkV3d0R0512P38GV7SqObyiEnP9v-Dh0tAM-WmGYOaRJzZmHKhxn9uNGeO4I9Lc09JO-ye83htPvmtL9Q1U9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 40,
+              'tag_list_track': [
+                '4&15',
+                '1&1000001',
+                '1&20'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&10014'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 525340028881,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-09-13/9431e7e9-7bc7-4470-9563-ccaac963d51b.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 95,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 525340028881,
+          'price_info': '10198',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 智能机',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=525340028881&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-13/0378481d3c225e18f6f581ce91109600.jpeg',
+          'sales_tip': '已拼5000+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '90',
+              'id': '10014',
+              'tag_series': '2',
+              'icon_track_info': '2&10014',
+              'url': 'https://promotion.pddpic.com/promo/2019-11-19/brand.png',
+              'height': '48'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 15,
+              't_tag_series': 4,
+              'text': '立减200元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&15'
+            },
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=525340028881&_oak_gallery_token=bb75245a46afab2adbc05caace0b8f84&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-09-13%2F9431e7e9-7bc7-4470-9563-ccaac963d51b.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-13/30165b4cdb840dbc5559120612de6958.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0xUVzh6RE5WcTBDdDQ2MHJpL3JCaEpXUWhtZ0dzVG14Zz09djA0-1578848379?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375340273406832098
+              }
+            ],
+            'bubble': '拼一下'
+          },
+          'market_price': 1999900,
+          'min_on_sale_group_price': 1019800,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-09-13/9431e7e9-7bc7-4470-9563-ccaac963d51b.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 1019800,
+          'normal_price': 1900000,
+          'sales': 5179,
+          'goods_name': 'Apple/苹果 iPhone 15 Pro 全网通5G手机A17Pro芯片',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '525340028881'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4mzrlcu03lqT01sZc4iT0Ob5jkw_j7rQFR5ocODYmqe_3qNarLUo6W6CmWHMp9AoK4Q58d7Tm9pVWDMgEJYHSgIrhDeas_M86iY05e4BWu59ve7afyt2zrgOOCT0',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 41,
+              'tag_list_track': [
+                '1&20',
+                '1&17'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&10014'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 453631924854,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-03-01/c86e88fc-6142-4b9b-8fac-f7b18b5b7941.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 453631924854,
+          'price_info': '5179',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 国产白酒',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=453631924854&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-03-01/ec2917f74024c5a3e3a50f833d0d3768.jpeg',
+          'sales_tip': '已拼2.2万件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '90',
+              'id': '10014',
+              'tag_series': '2',
+              'icon_track_info': '2&10014',
+              'url': 'https://promotion.pddpic.com/promo/2019-11-19/brand.png',
+              'height': '48'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            },
+            {
+              'code': 17,
+              't_tag_series': 1,
+              'text': '顺丰包邮',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&17'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=453631924854&_oak_gallery_token=631200a5d3da981f9355be920b3895ce&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-03-01%2Fc86e88fc-6142-4b9b-8fac-f7b18b5b7941.jpeg&_oak_rank_id=258587010201',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-03-01/3f177f89ab6a64bbe73b9b90eb0f69c8.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q1BiR05GTzdudmE5R29UeklockdiVVorSU43dmVISStDZz09djA0-1696945303?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375101638522551280
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q01HRzh4VEFKVllUSmV4WitkNm5ZcXMrT2hOYUZPTUZvUT09djA0-1641011861?imageMogr2/thumbnail/100x',
+                'group_order_id': 2374375309014450863
+              }
+            ],
+            'bubble': '邀你参团'
+          },
+          'ranking_list_tag': {
+            'text': '酱香型国产白酒畅销榜第1名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=258587010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 700000,
+          'min_on_sale_group_price': 517900,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-03-01/c86e88fc-6142-4b9b-8fac-f7b18b5b7941.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 517900,
+          'normal_price': 699900,
+          'sales': 22000,
+          'goods_name': '贵州飞天茅台53度500ml*2双瓶送礼袋',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '453631924854'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4nTrlcu03kFz01hCblxAQY9ig_eKqkoQWthXTJBuAZ5FDJgW2kL_WjAexwFG-3f9qQPN4VdHCAR91WDb8bmLzZlP-HP94wVKT8osCVyO6_fS6XAylxlCkRSX3PQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 42,
+              'tag_list_track': [
+                '4&15',
+                '1&1000001',
+                '1&20'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&10014'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 525117645692,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-09-13/28fba01c-d547-43aa-808c-fc5c8228265a.jpeg.a.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 525117645692,
+          'price_info': '5758',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 智能机',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=525117645692&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-13/50f64c278736ee2ecc42c0fe7d8bc661.jpeg',
+          'sales_tip': '已拼300+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '90',
+              'id': '10014',
+              'tag_series': '2',
+              'icon_track_info': '2&10014',
+              'url': 'https://promotion.pddpic.com/promo/2019-11-19/brand.png',
+              'height': '48'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 15,
+              't_tag_series': 4,
+              'text': '立减400元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&15'
+            },
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=525117645692&_oak_gallery_token=46b645dec8ffb7ba2a4e7d83593984ab&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-09-13%2F28fba01c-d547-43aa-808c-fc5c8228265a.jpeg.a.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-13/2b1d40c1941e8fafad97649dfcf7a783.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0JLaW5NSWNHUG5IdndIWjRJUk9nUkFnT0RGZHNyc1l4dz09djA0-1607534124?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375215424746902306
+              }
+            ],
+            'bubble': '速度拼'
+          },
+          'market_price': 10000000,
+          'min_on_sale_group_price': 575800,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-09-13/28fba01c-d547-43aa-808c-fc5c8228265a.jpeg.a.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 575800,
+          'normal_price': 2000000,
+          'sales': 379,
+          'goods_name': 'Apple iPhone15  支持移动联通电信5G 双卡双待手机 苹果',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '525117645692'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4mjrlcu03l0z01hCblxAQY9ig_eKqkoQWthXT5FMN9KoVNPQg0F_GWL4Fv1lZ0NSfCFhEVVG3Lx91WDb8bmLzZlP-HP94wVKT8YsDVye6EPW6XiDlonewPz0',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '2',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 43,
+              'tag_list_track': [
+                '1&1000001',
+                '1&20'
+              ],
+              'r_i': 'ExcellentImage',
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&0'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 537099654595,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/3478cabdfbf16eda3791cc94cc8fe503.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 2,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 537099654595,
+          'price_info': '2849',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 平板电脑',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=537099654595&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/3478cabdfbf16eda3791cc94cc8fe503.jpeg',
+          'sales_tip': '已拼100+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '81',
+              'id': '0',
+              'tag_series': '2',
+              'icon_track_info': '2&0',
+              'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+              'height': '42'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=537099654595&_oak_gallery_token=dfac43de0d0f6a1257d0132e819c4a9f&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-15%2F3478cabdfbf16eda3791cc94cc8fe503.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/3478cabdfbf16eda3791cc94cc8fe503.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'market_price': 371000,
+          'min_on_sale_group_price': 284900,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/3478cabdfbf16eda3791cc94cc8fe503.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 284900,
+          'normal_price': 370900,
+          'sales': 172,
+          'goods_name': 'Apple/iPad 9 10.2英寸平板电脑 2021年款 256G',
+          'activity_type': 1
+        },
+        'type': 0,
+        'feeds_id': '537099654595'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4mjrlcu03l1z01tZc4iT0Ob5jkw_j7rQFR5ocODYmqe_3qNarLUo6W6CmWHMp9AoK4Q58d7Tm9pVWDMgEJYHSgIrhDeas_M1z8osDVye6EPW6XiBtR0dPaSz3PQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '2',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 44,
+              'tag_list_track': [
+                '1&20',
+                '1&36'
+              ],
+              'r_i': 'ExcellentImage',
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&0'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 453206857031,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/0475aa40fc1a28617fc79ddab5776a3b.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 2,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 453206857031,
+          'price_info': '5179',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 国产白酒',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=453206857031&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/0475aa40fc1a28617fc79ddab5776a3b.jpeg',
+          'sales_tip': '已拼4.1万件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '81',
+              'id': '0',
+              'tag_series': '2',
+              'icon_track_info': '2&0',
+              'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+              'height': '42'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            },
+            {
+              'code': 36,
+              't_tag_series': 1,
+              'text': '品质险',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&36'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=453206857031&_oak_gallery_token=285907b22d68363be4298d13c866826a&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-15%2F0475aa40fc1a28617fc79ddab5776a3b.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/0475aa40fc1a28617fc79ddab5776a3b.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'market_price': 620000,
+          'min_on_sale_group_price': 517900,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/0475aa40fc1a28617fc79ddab5776a3b.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 517900,
+          'normal_price': 619900,
+          'sales': 41000,
+          'goods_name': '贵州飞天茅台酒53度500ml*2瓶正品保真酱香型白酒双瓶装送礼袋',
+          'activity_type': 1
+        },
+        'type': 0,
+        'feeds_id': '453206857031'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4nDrlcu03kVT01oZc4iT0Ob5jkw_j7rQFR5ocODYmqe_3qNarLUo6W6CmWHMl6w0f7VExCqulk51fDMgEJYHSgIrhDebzwfw049MVQJdrKUHI9UL0b1BETFU9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '2',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 45,
+              'tag_list_track': [
+                '1&1000001',
+                '1&20'
+              ],
+              'r_i': 'ExcellentImage',
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&0'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 525313741676,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/27a1390186ad7433e0d9242e529f75fb.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 2,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 525313741676,
+          'price_info': '9999',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 智能机',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=525313741676&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/27a1390186ad7433e0d9242e529f75fb.jpeg',
+          'sales_tip': '已拼800+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '81',
+              'id': '0',
+              'tag_series': '2',
+              'icon_track_info': '2&0',
+              'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+              'height': '42'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=525313741676&_oak_gallery_token=77b057c2000cf09a8fdf056d8209b6e0&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-15%2F27a1390186ad7433e0d9242e529f75fb.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/27a1390186ad7433e0d9242e529f75fb.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'market_price': 1600100,
+          'min_on_sale_group_price': 999900,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/27a1390186ad7433e0d9242e529f75fb.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 999900,
+          'normal_price': 1100000,
+          'sales': 873,
+          'goods_name': '新品Apple/苹果 iPhone 15 ProMax国行正品旗舰苹果手机',
+          'activity_type': 1
+        },
+        'type': 0,
+        'feeds_id': '525313741676'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4mzrlcu03lrT01uZc4iT0Ob5jkw_j7rQFR5ocODYmqe_3qNarLUo6W6CmWHMu8wUG4Q58d7Tm9txNW5JTf8jRtoXhIvzRp59RgL9ERpfZ9DtXMdIUAHCWPGfVYCXgPQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 46,
+              'tag_list_track': [
+                '1&1000001',
+                '1&20',
+                '2&10001'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&10014'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 528304802399,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-09-20/4cf00253-a573-4ad4-a727-62c48c64f68c.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 528304802399,
+          'price_info': '2685',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 智能手表',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=528304802399&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-20/6260ecae90deaf4b931d60dee981f8fa.jpeg',
+          'sales_tip': '已拼490件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '90',
+              'id': '10014',
+              'tag_series': '2',
+              'icon_track_info': '2&10014',
+              'url': 'https://promotion.pddpic.com/promo/2019-11-19/brand.png',
+              'height': '48'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            },
+            {
+              'code': 10001,
+              't_tag_series': 2,
+              'text': '新品',
+              'text_color': '#9C9C9C',
+              'type': 2,
+              'tag_track_info': '2&10001'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=528304802399&_oak_gallery_token=13da9835eebaecb5d3a9b7b4681025e2&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-09-20%2F4cf00253-a573-4ad4-a727-62c48c64f68c.jpeg&_oak_rank_id=7256010204',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-20/c24b63d51bd94349e56365430f48019b.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'ranking_list_tag': {
+            'text': '品牌智能手表降价榜第2名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=7256010204&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 400100,
+          'min_on_sale_group_price': 268500,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-09-20/4cf00253-a573-4ad4-a727-62c48c64f68c.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 268500,
+          'normal_price': 400000,
+          'sales': 490,
+          'goods_name': 'Apple Watch Series 9 智能手表铝 金属表壳 健康电话手表',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '528304802399'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4ljrlcu03m0z01lAblhAQ4dgk9NBRbqaGJ5_LFuNkpSBANoDDFG3guScfAnjePSAQZz6f_DYgZeVv_9615eQws0nvD1Wh4WGNAh49QK3pV2U17vR6DNSmPz0',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 47,
+              'tag_list_track': [
+                '2&30004',
+                '1&17',
+                '1&36',
+                '2&10011'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&90018'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 535737259651,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-09/1b6c9016-896d-4afb-b37a-0c15ff0cbeea.jpeg.a.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 3,
+          'customer_num': 2,
+          'goods_id': 535737259651,
+          'price_info': '240.9',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 洁面',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=535737259651&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-10-09/c44253d73b04a89e5295f30d682bd979.jpeg',
+          'sales_tip': '已拼1005件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '72',
+              'id': '90018',
+              'tag_series': '2',
+              'icon_track_info': '2&90018',
+              'url': 'https://mcdn.pinduoduo.com/upload/duorentuantag/175a50bf-b048-4bae-929d-df720a7a03fc.png',
+              'height': '28'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 30004,
+              't_tag_series': 2,
+              'text': '274人鉴别店铺商品为真',
+              'text_color': '#E02E24',
+              'type': 2,
+              'tag_track_info': '2&30004'
+            },
+            {
+              'code': 17,
+              't_tag_series': 1,
+              'text': '顺丰包邮',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&17'
+            },
+            {
+              'code': 36,
+              't_tag_series': 1,
+              'text': '品质险',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&36'
+            },
+            {
+              'code': 10011,
+              't_tag_series': 2,
+              'text': '全球购',
+              'text_color': '#9C9C9C',
+              'type': 2,
+              'tag_track_info': '2&10011'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=535737259651&_oak_gallery_token=2208acc94614dd4602ef79b6377600bc&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-09%2F1b6c9016-896d-4afb-b37a-0c15ff0cbeea.jpeg.a.jpeg&_oak_rank_id=143855010201',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-10-09/6233b0e9b0294c8a4b786a2b755f52a4.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'ranking_list_tag': {
+            'text': '进口雅诗兰黛洁面畅销榜第3名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=143855010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 59900,
+          'min_on_sale_group_price': 24090,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-09/1b6c9016-896d-4afb-b37a-0c15ff0cbeea.jpeg.a.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 24090,
+          'normal_price': 59800,
+          'sales': 1005,
+          'goods_name': '【保税直发】三支装单品 雅诗兰黛红石榴洁面125ml/支',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '535737259651'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4rjrlcu03o6z01qAbiB8QndBUSpQwQcx8DGIZ3gk-JWSO-YgSguMZcvbo1AWndWSrwCRat2e51__h1aFAIwnAWax4CpMDn31sJmzLGeCSr5PdPtFtilQcTW-8vFU9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 48,
+              'tag_list_track': [
+                '4&5',
+                '1&3',
+                '1&15'
+              ],
+              'prc_fail': 1,
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":42782315414,"cid":42782315414}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 518700576287,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-09-01/548b2761-674f-4e46-a897-0c61d8b5d1d0.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 518700576287,
+          'price_info': '69',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 卫衣',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=518700576287&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-01/fac5eb6ea75550327a7aee139b3afd85.jpeg',
+          'sales_tip': '已拼3.7万件',
+          'tag_list': [
+            {
+              'code': 5,
+              't_tag_series': 4,
+              'text': '立减30元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&5'
+            },
+            {
+              'code': 3,
+              't_tag_series': 1,
+              'text': '退货包运费',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&3'
+            },
+            {
+              'code': 15,
+              't_tag_series': 1,
+              'text': '假一赔十',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&15'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=518700576287&_oak_gallery_token=2ca00bbcc3111d83df3d18a01714097f&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-09-01%2F548b2761-674f-4e46-a897-0c61d8b5d1d0.jpeg&_oak_rank_id=251135010201',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-01/c96c7170fa9f60463c9596e4ba44b427.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0c5ajNWbTE0UlVlVXhQR3lqYWJSb1U4cmZJUnRnQnNLQT09djA0-1631086814?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375415781385010203
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0xVMUplTGNkSlpVazMxN1MwekdVK1JSM0o5UmdSaFY1dz09djA0-1680669121?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375487351919632176
+              }
+            ],
+            'bubble': '剁手拼团'
+          },
+          'ranking_list_tag': {
+            'text': '男宽松卫衣畅销榜第1名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=251135010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 18900,
+          'min_on_sale_group_price': 6900,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-09-01/548b2761-674f-4e46-a897-0c61d8b5d1d0.jpeg',
+          'price': 6900,
+          'normal_price': 9900,
+          'sales': 37000,
+          'goods_name': '老爷车正品男士圆领卫衣秋冬新款加绒加厚长袖t恤休闲纯色上衣男',
+          'activity_type': 0
+        },
+        'type': 0,
+        'feeds_id': '518700576287'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4hDrlcu03ifz01nCaix8A8dQcokeHUlE_P2shEA8mZfnk2VPcS6oifGEI4lsLYnhj-G2cyOpw3-Iuj90RqVG_pKsGwE3V59xho0gvWDaaiwYBZ-u84pgaZyuNSyYq0Ai-N5bt53f6PQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '2',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 49,
+              'tag_list_track': [
+                '2&10022',
+                '2&90015'
+              ],
+              'prc_fail': 1,
+              'r_i': 'ExcellentImage',
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":20557734114,"cid":20557734114}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&0'
+              ],
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 391983177607,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/6af8c0ac7b55df7f3f5e5ce49285817a.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 2,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 391983177607,
+          'price_info': '5.99',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 面包',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=391983177607&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/6af8c0ac7b55df7f3f5e5ce49285817a.jpeg',
+          'sales_tip': '已拼50万+件',
+          'icon_list': [
+            {
+              'width': '81',
+              'id': '0',
+              'tag_series': '2',
+              'icon_track_info': '2&0',
+              'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+              'height': '42'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 10022,
+              't_tag_series': 2,
+              'text': '旗舰店',
+              'text_color': '#E02E24',
+              'type': 2,
+              'tag_track_info': '2&10022'
+            },
+            {
+              'code': 90015,
+              't_tag_series': 2,
+              'text': '活动即将结束',
+              'text_color': '#E02E24',
+              'type': 2,
+              'tag_track_info': '2&90015'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=391983177607&_oak_gallery_token=99cc45f58e72c84873533bb3ef658e5a&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-13%2F6af8c0ac7b55df7f3f5e5ce49285817a.jpeg&_oak_rank_id=69147010201',
+          'hd_thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/6af8c0ac7b55df7f3f5e5ce49285817a.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'ranking_list_tag': {
+            'text': '糕点畅销榜第4名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=69147010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 7100,
+          'min_on_sale_group_price': 599,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/6af8c0ac7b55df7f3f5e5ce49285817a.jpeg',
+          'icon': {
+            'width': '81',
+            'id': '0',
+            'tag_series': '2',
+            'icon_track_info': '2&0',
+            'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+            'height': '42'
+          },
+          'price': 599,
+          'normal_price': 5000,
+          'sales': 100000,
+          'goods_name': '岩烧乳酪吐司面包整箱小蛋糕类零食食品休闲早餐速食网红夜宵代餐',
+          'activity_type': 1
+        },
+        'type': 0,
+        'feeds_id': '391983177607'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4hjrlcu03i8T01mBaih8A8dQcokeHUlE_P2shEA8mv1oEJICPHQEifPG5NsCXFh-bFF9aJ7xLFLHM-Zq1mMpUH_WS83Z5kPTGL16JRdHK_Yy3hflK0FV9EiuJcxeTZH95QtKtYB2Gpj0',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '2',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 50,
+              'tag_list_track': [
+                '1&24'
+              ],
+              'prc_fail': 1,
+              'r_i': 'ExcellentImage',
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":16720903556,"cid":16720903556}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&0'
+              ],
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 309471083194,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/goods_mms/2023-10-14/7c82d2a4427b93400c69b852e734a100.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 2,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 309471083194,
+          'price_info': '1.23',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 商用大盘卷纸',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=309471083194&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/goods_mms/2023-10-14/7c82d2a4427b93400c69b852e734a100.jpeg',
+          'sales_tip': '已拼80万+件',
+          'icon_list': [
+            {
+              'width': '81',
+              'id': '0',
+              'tag_series': '2',
+              'icon_track_info': '2&0',
+              'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+              'height': '42'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 24,
+              't_tag_series': 1,
+              'text': '极速退款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&24'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=309471083194&_oak_gallery_token=95728ed3d8a1b1c0355afa6118d0cc2e&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fgoods_mms%2F2023-10-14%2F7c82d2a4427b93400c69b852e734a100.jpeg&_oak_rank_id=100520010201',
+          'hd_thumb_url': 'https://img.pddpic.com/goods_mms/2023-10-14/7c82d2a4427b93400c69b852e734a100.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0RTSGc2U1VUY1dKOU1YM3hYK1I5d1FrRElhQ3VGdTN1QT09djA0-1645677675?imageMogr2/thumbnail/100x',
+                'group_order_id': 2374429048472320686
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q01nbS9JOFNESzRJbzVKVXFNY0lQWEs5UVF0UFQwbnNaUT09djA0-1697375589?imageMogr2/thumbnail/100x',
+                'group_order_id': 2374650510407110292
+              }
+            ],
+            'bubble': '等你来拼'
+          },
+          'ranking_list_tag': {
+            'text': '商用大盘卷纸畅销榜第2名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=100520010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 6288,
+          'min_on_sale_group_price': 123,
+          'image_url': 'https://img.pddpic.com/goods_mms/2023-10-14/7c82d2a4427b93400c69b852e734a100.jpeg',
+          'icon': {
+            'width': '81',
+            'id': '0',
+            'tag_series': '2',
+            'icon_track_info': '2&0',
+            'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+            'height': '42'
+          },
+          'price': 123,
+          'normal_price': 1350,
+          'sales': 100000,
+          'goods_name': '【40卷一年装/10卷】多柔雅空心卷筒纸有芯卫生纸大卷家用厕纸',
+          'activity_type': 1
+        },
+        'type': 0,
+        'feeds_id': '309471083194'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4rzrlcu03olz01vZc4iT0Ob5jkw_j7rQFR5ocODYmqe_3qNarLUo6W6CmWHMr6wkf7VExCqulk51fT5RSatPRtoXhIvzRp59RgPY8QKDxu037OoPnWlrHBy73PQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '2',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 51,
+              'tag_list_track': [
+                '2&90015',
+                '1&36',
+                '1&3'
+              ],
+              'r_i': 'ExcellentImage',
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&0'
+              ],
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 254170536382,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/431de9e72bb5d7821d0bb11fc7db2b07.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 2,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 254170536382,
+          'price_info': '7.4',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 鸡肉零食',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=254170536382&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/431de9e72bb5d7821d0bb11fc7db2b07.jpeg',
+          'sales_tip': '已拼100万+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '81',
+              'id': '0',
+              'tag_series': '2',
+              'icon_track_info': '2&0',
+              'url': 'https://funimg.pddpic.com/hot_friends/8c0d811f-8173-4059-90b8-bd7704f00f05.png',
+              'height': '42'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 90015,
+              't_tag_series': 2,
+              'text': '活动即将结束',
+              'text_color': '#E02E24',
+              'type': 2,
+              'tag_track_info': '2&90015'
+            },
+            {
+              'code': 36,
+              't_tag_series': 1,
+              'text': '品质险',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&36'
+            },
+            {
+              'code': 3,
+              't_tag_series': 1,
+              'text': '退货包运费',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&3'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=254170536382&_oak_gallery_token=6dfad31e86140a2de17d64b4d1f75290&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-13%2F431de9e72bb5d7821d0bb11fc7db2b07.jpeg&_oak_rank_id=72842010201',
+          'hd_thumb_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/431de9e72bb5d7821d0bb11fc7db2b07.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0FhY0I1Q2Y3VGdyOXo3dnhoR3E5T3dWV1ROTGJBUi9CUT09djA0-1611374299?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375598527241662133
+              }
+            ],
+            'bubble': '邀你参团'
+          },
+          'ranking_list_tag': {
+            'text': '鸡肉类零食畅销榜第1名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=72842010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 8000,
+          'min_on_sale_group_price': 740,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-13/431de9e72bb5d7821d0bb11fc7db2b07.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 740,
+          'normal_price': 1258,
+          'sales': 100000,
+          'goods_name': '酸掌柜无骨鸡爪500g罐装批发去骨凤爪休闲网红零食柠檬鸡爪脱骨',
+          'activity_type': 1
+        },
+        'type': 0,
+        'feeds_id': '254170536382'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4mzrlcu03llT01jBblhAg8di49bXhXBANwAbmittxZOfpjffIEr_2-hh-Ityd1VtFqPKlVvu0yBScrpYzQdo3ttB3pXcrdzQw5445e4BWu59ve7afWuCCUVU9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 52,
+              'tag_list_track': [
+                '4&17',
+                '1&1000001',
+                '1&20'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&90018'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 219335851616,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/91f4b111-7a7f-4c23-b6d1-f8ede19c8640.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 219335851616,
+          'price_info': '6599',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 笔记本电脑',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=219335851616&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-10-15/a237774116954cdb4d3b5038b8d4dfe4.jpeg',
+          'sales_tip': '已拼500+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '72',
+              'id': '90018',
+              'tag_series': '2',
+              'icon_track_info': '2&90018',
+              'url': 'https://mcdn.pinduoduo.com/upload/duorentuantag/175a50bf-b048-4bae-929d-df720a7a03fc.png',
+              'height': '28'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 17,
+              't_tag_series': 4,
+              'text': '满100减1',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&17'
+            },
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=219335851616&_oak_gallery_token=fbfaeea433de93697495b91c30903a30&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-10-15%2F91f4b111-7a7f-4c23-b6d1-f8ede19c8640.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-10-15/aaa45029c65feda82efbbc519db4d5dd.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [],
+            'bubble': ''
+          },
+          'market_price': 2000000,
+          'min_on_sale_group_price': 659900,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-10-15/91f4b111-7a7f-4c23-b6d1-f8ede19c8640.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 659900,
+          'normal_price': 999900,
+          'sales': 563,
+          'goods_name': '联想 2023款 拯救者R7000 15.6英寸笔记本电脑 R7-7735H+RTX4060',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '219335851616'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4nDrlcu03kaz01jAblhEAmdRzzDsXUPd6b-q1KDEKffGP_DJGXq4ZqpnjK_iG9y0IDaNhghaOO72Gr5a1IuwQ80lvhk0ZUTosDws_QKz1Vzn1r_NaJRyfB6mEdlU9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 53,
+              'tag_list_track': [
+                '4&15',
+                '1&1000001',
+                '1&20'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              'icon_list_track': [
+                '2&20001',
+                '2&10014'
+              ],
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 527301042271,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-09-13/082b0e09-2f05-4a30-9602-5aadb8f76f0c.jpeg.a.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 527301042271,
+          'price_info': '8698',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 智能机',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=527301042271&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-18/e4a9af351d7ce7a45ad153ee631bbfbc.jpeg',
+          'sales_tip': '已拼1500+件',
+          'icon_list': [
+            {
+              'width': '156',
+              'id': '20001',
+              'tag_series': '2',
+              'icon_track_info': '2&20001',
+              'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+              'height': '42'
+            },
+            {
+              'width': '90',
+              'id': '10014',
+              'tag_series': '2',
+              'icon_track_info': '2&10014',
+              'url': 'https://promotion.pddpic.com/promo/2019-11-19/brand.png',
+              'height': '48'
+            }
+          ],
+          'tag_list': [
+            {
+              'code': 15,
+              't_tag_series': 4,
+              'text': '立减200元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&15'
+            },
+            {
+              'code': 1000001,
+              't_tag_series': 1,
+              'text': '正品发票',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&1000001'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=527301042271&_oak_gallery_token=9cbae1d77cc2d4feee5f220f61722ec2&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-09-13%2F082b0e09-2f05-4a30-9602-5aadb8f76f0c.jpeg.a.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-18/4e58e05ba8e3d3b390bd65f683a2fc06.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q05nYlV3VkQyZlgrczc5QmZTZ3NycTRBT2tzUmFZbjNsZz09djA0-1696518000?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375630073609193516
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0w0TDRidndaTkVqSzB2S0pITnl0TlkyMGtNakFUNXFFUT09djA0-1632914930?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375685857872873419
+              }
+            ],
+            'bubble': '求带我拼'
+          },
+          'market_price': 1500000,
+          'min_on_sale_group_price': 869800,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-09-13/082b0e09-2f05-4a30-9602-5aadb8f76f0c.jpeg.a.jpeg',
+          'icon': {
+            'width': '156',
+            'id': '20001',
+            'tag_series': '2',
+            'icon_track_info': '2&20001',
+            'url': 'http://img.pddpic.com/social/pincard/1/share.png',
+            'height': '42'
+          },
+          'price': 869800,
+          'normal_price': 999900,
+          'sales': 1700,
+          'goods_name': 'Apple iPhone 15 Pro 支持移动联通电信5G 双卡双待手机',
+          'activity_type': 34
+        },
+        'type': 0,
+        'feeds_id': '527301042271'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4rTrlcu03oKT01rCbiR4QCdxjah7oz8D79FxPcQsc5nbpbqxIZniblv6Kw0KDQwQuTX_MghLoZTl5wPPiiZYke3iXOFyM0vdz2hRMQ1DHjCD4On1tukEkJ7GMCT0',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 54,
+              'tag_list_track': [
+                '2&10022',
+                '4&5',
+                '1&3'
+              ],
+              'prc_fail': 1,
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":34211312589,"cid":34211312589}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 372172743292,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2022-10-18/67d04538-5bd6-4d18-bcfb-ba16447b9dfc.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 372172743292,
+          'price_info': '17.9',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 柔纸巾',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=372172743292&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-04-30/ed32d601a9a828fdd24acf6090ba79e9.jpeg',
+          'sales_tip': '已拼100万+件',
+          'tag_list': [
+            {
+              'code': 10022,
+              't_tag_series': 2,
+              'text': '旗舰店',
+              'text_color': '#E02E24',
+              'type': 2,
+              'tag_track_info': '2&10022'
+            },
+            {
+              'code': 5,
+              't_tag_series': 4,
+              'text': '立减10元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&5'
+            },
+            {
+              'code': 3,
+              't_tag_series': 1,
+              'text': '退货包运费',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&3'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=372172743292&_oak_gallery_token=376f6d7366ddb2d7f6c9e350da9d73de&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2022-10-18%2F67d04538-5bd6-4d18-bcfb-ba16447b9dfc.jpeg&_oak_rank_id=187819010201',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-04-30/83cd72de59922f85f7a4c57c54bf91eb.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0dHRjgvT2gwWEFEdHN1WU0xbXBpYjI4OVRyekxsc2NoUT09djA0-1675044681?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375000167791454023
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0FxYUt3djVPK0ZhajZRL2sxNTBMS1lHOWJzbXNZQ3ZlQT09djA0-1684166944?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375033486325140011
+              }
+            ],
+            'bubble': '就爱拼团'
+          },
+          'ranking_list_tag': {
+            'text': '印花柔纸巾畅销榜第1名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=187819010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 6790,
+          'min_on_sale_group_price': 1790,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2022-10-18/67d04538-5bd6-4d18-bcfb-ba16447b9dfc.jpeg',
+          'price': 1790,
+          'normal_price': 1990,
+          'sales': 100000,
+          'goods_name': '特价大包原木纸巾抽纸批发整箱大包纸巾家用面巾纸餐巾纸母婴用纸',
+          'activity_type': 0
+        },
+        'type': 0,
+        'feeds_id': '372172743292'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4hzrlcu03ivz01jAaix8A79T0N1LD7yl_obfvVlRlykPhl8lS23NsfvE492BttGcxugVgoq0Xa3CWl38qaar8W3ldCTMccddv8-dpdCPRHs-HUtYJ1UGhRRaExysEgFraYYqn0376PQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 55,
+              'tag_list_track': [
+                '1&12',
+                '1&3'
+              ],
+              'prc_fail': 1,
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":10443791261,"cid":10443791261}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 213992817371,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2021-05-13/3886d326-ff55-4e07-80cf-251aee0e7ab5.jpeg.a.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 213992817371,
+          'price_info': '1.92',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 双面胶带',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=213992817371&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2021-09-14/2e7e75c8aca65949956fe6e99ffb1d40.jpeg',
+          'sales_tip': '已拼100万+件',
+          'tag_list': [
+            {
+              'code': 12,
+              't_tag_series': 1,
+              'text': '24小时发货',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&12'
+            },
+            {
+              'code': 3,
+              't_tag_series': 1,
+              'text': '退货包运费',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&3'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=213992817371&_oak_gallery_token=f984a798629a74c9330973ff2d306ff7&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2021-05-13%2F3886d326-ff55-4e07-80cf-251aee0e7ab5.jpeg.a.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2021-09-14/e33734708a6b7f415c8be380a7090c42.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q01aR083SUlSMnhKWWFuVGFtT2dRYkN1R3lyY3ZZVDdkQT09djA0-1682783575?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375178892369580732
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0g2S1F5NmVIZHVOYmgyT2V1NzhOMmZaYzdYOS9FZzFJQT09djA0-1641358652?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375427609353633916
+              }
+            ],
+            'bubble': '省钱来拼'
+          },
+          'market_price': 4090,
+          'min_on_sale_group_price': 192,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2021-05-13/3886d326-ff55-4e07-80cf-251aee0e7ab5.jpeg.a.jpeg',
+          'price': 192,
+          'normal_price': 300,
+          'sales': 100000,
+          'goods_name': '纳米万能无痕双面胶贴强力高粘度魔力透明胶带超强固定贴万用水洗',
+          'activity_type': 21
+        },
+        'type': 0,
+        'feeds_id': '213992817371'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4rjrlcu03o6z01qAbiB8QndBUSpQwQcx8DGIZ3gk-JWtKcW8ooLMbcmCqJhDwB5pSifhh8SidUCHWs6PCUhNPxs3rNpe6ofmEvRTyJ0ojkqhgKtFtilQcTW-8vFU9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 56,
+              'tag_list_track': [
+                '4&5',
+                '1&12',
+                '1&3'
+              ],
+              'prc_fail': 1,
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":28775622940,"cid":28775622940}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 442231326880,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-08-16/1f06404a-1c4d-400b-82a7-6f4c1ee33446.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 442231326880,
+          'price_info': '3.98',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 擦脚布',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=442231326880&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-05/551439efe4f8914bec76289ed0d7113e.jpeg',
+          'sales_tip': '已拼30万+件',
+          'tag_list': [
+            {
+              'code': 5,
+              't_tag_series': 4,
+              'text': '立减2元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&5'
+            },
+            {
+              'code': 12,
+              't_tag_series': 1,
+              'text': '24小时发货',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&12'
+            },
+            {
+              'code': 3,
+              't_tag_series': 1,
+              'text': '退货包运费',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&3'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=442231326880&_oak_gallery_token=31c6b103b673493b1c2b400c9cdec9c6&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-08-16%2F1f06404a-1c4d-400b-82a7-6f4c1ee33446.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-05/6b1fb70a0669dbabbf69775c0d35523f.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0k0bE5DMlF0SlZod0NocGVianBLSnJjRlE2WW9YVlAwdz09djA0-1662435234?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375096972348182101
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q09ZL3BuMXNNUWN0aVlteGhOSEV6RjFoMXZKWDhlcFM2QT09djA0-1599847037?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375328686672771845
+              }
+            ],
+            'bubble': '快来拼'
+          },
+          'market_price': 6800,
+          'min_on_sale_group_price': 398,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-08-16/1f06404a-1c4d-400b-82a7-6f4c1ee33446.jpeg',
+          'price': 398,
+          'normal_price': 1000,
+          'sales': 100000,
+          'goods_name': '【万能布】洗脸巾纯棉一次性毛巾懒人抹布洗碗百洁擦厨房专用纸巾',
+          'activity_type': 0
+        },
+        'type': 0,
+        'feeds_id': '442231326880'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4nDrlcu03kbT01uZc4iT0Ob5jkw_j7rQFR5ocODYmqe_3qNarLUo6W6CmWHMt_Q4C4Qt8d7Tm9plfT5FGZJzVsYjyPM3vpaN6xLpERpfe9NmjItKfXhHAt3Y5wCPgPQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 57,
+              'tag_list_track': [
+                '4&17',
+                '1&4',
+                '1&20'
+              ],
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': 'uggOryM9',
+              'g': 'HP_AB',
+              'm': 'jzEnuF0EPQ',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': 'uggOryM9',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 523650667837,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/garner-api-new/0fa8873d3b1962252f23a16a60bc89de.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 523650667837,
+          'price_info': '1831.5',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 布艺沙发',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=523650667837&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-09/c328525ff8d18ce8494ddef8bb033038.jpeg',
+          'sales_tip': '已拼447件',
+          'tag_list': [
+            {
+              'code': 17,
+              't_tag_series': 4,
+              'text': '满1000减300',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&17'
+            },
+            {
+              'code': 4,
+              't_tag_series': 1,
+              'text': '送货入户并安装',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&4'
+            },
+            {
+              'code': 20,
+              't_tag_series': 1,
+              'text': '分期付款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&20'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=523650667837&_oak_gallery_token=e89198c3c11542a5bdbdb63b77189b58&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fgarner-api-new%2F0fa8873d3b1962252f23a16a60bc89de.jpeg&_oak_rank_id=216182010202',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-09-09/b0f4e9258ee6fa9927f6c477b323a704.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0Y4eDJ1RVJ2eG9ubnA1bnBObG9Ya3RUclMrNjFXWDlpUT09djA0-1640527001?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375537599743523466
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0VqVHh5N3Y4OWlVN3Y0UVpuQmZFWlRxUEFVUmUrZG9sQT09djA0-1571143406?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375541463725710251
+              }
+            ],
+            'bubble': '求组队'
+          },
+          'ranking_list_tag': {
+            'text': '一字型布艺沙发好评榜第2名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=216182010202&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 599900,
+          'min_on_sale_group_price': 183150,
+          'image_url': 'https://img.pddpic.com/garner-api-new/0fa8873d3b1962252f23a16a60bc89de.jpeg',
+          'price': 183150,
+          'normal_price': 195000,
+          'sales': 447,
+          'goods_name': '意式极简科技布沙发中小户型客厅家用奶油风直排实木框架沙发组合',
+          'activity_type': 101
+        },
+        'type': 0,
+        'feeds_id': '523650667837'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4iDrlcu03hdT01mCaix4Ac7U8x-lRrm8-37AvL1PSn_aRQ2LcB8QXzLV0Hi2VhkcyRxcnkwcQmP5tFt_XkSE4ggu70E21J9xRo04b2DaKOeiFbbxZ3OJLTSmNLD76be0-FgOgTEUwEmsDPQ',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 58,
+              'tag_list_track': [
+                '4&5',
+                '4&28',
+                '1&24'
+              ],
+              'prc_fail': 1,
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":42402135430,"cid":42402135430}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 514132741307,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-08-14/4b827662-0418-44c7-9ac2-be42029cf9a5.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 514132741307,
+          'price_info': '24.38',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: T恤',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=514132741307&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-08-14/9f511a79600019653703d9a432d1b95f.jpeg',
+          'sales_tip': '已拼1.1万件',
+          'tag_list': [
+            {
+              'code': 5,
+              't_tag_series': 4,
+              'text': '立减20元',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&5'
+            },
+            {
+              'code': 28,
+              't_tag_series': 4,
+              'text': '即将恢复原价',
+              'text_color': '#E02E24',
+              'type': 4,
+              'tag_track_info': '4&28'
+            },
+            {
+              'code': 24,
+              't_tag_series': 1,
+              'text': '极速退款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&24'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=514132741307&_oak_gallery_token=c45a27706926b1846a61a9edddef1676&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-08-14%2F4b827662-0418-44c7-9ac2-be42029cf9a5.jpeg&_oak_rank_id=70421010201',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-08-14/3dd899020b6cbed5dc0cfdea23868966.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q1BpeWI5MXBhNFNnbkc3VlFtVjdPNVgrT1VhUWhCWUJwdz09djA0-1624624075?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375229360280562426
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0pUaWhBZWxVN3VHWXBXdStCdjNUUXhQdi9lRGdxbERTZz09djA0-1673693566?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375078700922341946
+              }
+            ],
+            'bubble': '戳我拼'
+          },
+          'ranking_list_tag': {
+            'text': '男士T恤畅销榜第8名',
+            'type': 20,
+            'link_url': 'https://mobile.yangkeduo.com/sjs_cat_rank_list.html?list_id=70421010201&__list_version=2&_pdd_fs=1&_pdd_tc=ffffff&_pdd_sbs=1&scene_id=homepage_scene_id',
+            'tag_track_info': '2&10021',
+            'tag_icon': {
+              'width': 11,
+              'height': 13,
+              'url': 'http://pinduoduoimg.yangkeduo.com/hot_friends/10iconnew/bangdan.png'
+            }
+          },
+          'market_price': 5800,
+          'min_on_sale_group_price': 2438,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-08-14/4b827662-0418-44c7-9ac2-be42029cf9a5.jpeg',
+          'price': 2438,
+          'normal_price': 4900,
+          'sales': 11000,
+          'goods_name': '【100%】纯棉长袖男士t恤衫新款春秋季大码宽松打底衫男圆领1/2件',
+          'activity_type': 3
+        },
+        'type': 0,
+        'feeds_id': '514132741307'
+      },
+      {
+        'data': {
+          'track_info': {
+            'p_rec': {
+              'loc': 'new_homepage',
+              'eventid': '25bda9496bc511ee806ebff69a24949d',
+              'trigger_type_list': '',
+              'sec_info': '3WV4qzrlcu03pnz01oAbiREQCdxr-q2wObSxSWyUjRmVm6mc8SI18S75C95vcdKZ_Cjyv2B36vLAcy8leJ_1p2DyiUyzWbucPKAwH83-ZPii4WGb2e08aio9',
+              'list_id': 'homepage__v04pxh24am',
+              'bk': '98',
+              'main_img_src': '0',
+              'sub_stage': 1,
+              'eis': '1',
+              'vid': 'M-KHqE08X3zih6h6',
+              'experiment': 'AAAUTCi1L_1gTBNlGADmaVkZcI_akjEMFoTRQk6vRCzGnVKmyG666v-HF2AATwBNAFQvm8UlJ9aVuHg4zMpCCpGpxvCgsICwcJxYcyUxz777KzQOhgVHBISDiJWAoCBgUEAgV7liVZnGm2mZfoR3vmsTr-aJfWORPV8UKhffAMhoTDwoFMQR0HBoYAQ0pnQDIyZyZi1lftZwzuUSnUx0QvrKNjTV-pV_cp6SrY6X0m08_JRrM7-w6EYpXxa6oyERq4_YazK3kUyTlss8c8tlbNSAw643I1_NFhETB5Xxj8jl87edLI5JaJptFusMkYr2dGj0xaf_bO1dfkwlL87t5xGiVjxYLDQ8GBzFu5h9JS96SbtJNvdLdffNlkUx2XyOTMS_5NLkd90co_HmEhmVol8jS-b72GiIdtFqpjXxM8JaT33NsehWoZp_s75Yy9n-RjOSLXW7zqb2vWK3mlP9SfpcTqzo-pHwyOlbZEp_V5pUyXNxUSqCVahCRSDyggbyxoBJQwASANAKOAuoC50Aooo0xE_0MfY-JKg6WXA1pMWbd0M2R4h2Ju4_uknoBAhfhZulfi3ozjJpKTt5CQzcuRET4u19Id-U6-4N0LOIv_gjRyElK2UGQTTpMD6Ih79IRfxGn3CCM4OKbgf1Zt2UD27Wb8-b-PzTj6Dawmljz5bWE4ZggBTO3XHLJOxpBMt5wOTH7vvJO2W4NkBvl7GBan5DA8H8zAHXenvlyy-TVN-SO02p-BjQkHkrE-f5I-XEbLBUwq1pQDe3wEy8NLM1INLsm2Nv9pq-A2Ta6T593V3mZR8kfclVQAUwGrlH9XzlztMSQYf0Fjf7EJo4Ngpf1MQEtFZzQ_NPHI2Rda93hhqKBEID41yTPZ4tYF1gCjGLhqrvzQZV6XOyZVLNpb28We0o04tB0pdZHQC0H16w01n5lbMewei-0Ncu4BQh-MwREnwpDfIVX5eJfZT4GElAMCRsFGN1BQqa1I2Zhtb_o5q0zvlTtzs3wG8ZDzUR4p8cnidH5P2939xSLNwqu8Bjn-k7o5DtwH_xzw96',
+              'pv_id': '48b47571-c0f0-406a-8f46-ec76203a3b91',
+              'pos': 59,
+              'tag_list_track': [
+                '1&15',
+                '1&24'
+              ],
+              'prc_fail': 1,
+              'set': 'shb1',
+              'org': 'rec',
+              'trigger_list': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'g': 'HP_AB',
+              'm': 'kiM-r2E_O2R_klU9',
+              'creative': '{"unique_creative_id":38557484448,"cid":38557484448}',
+              'app_name': 'new_homepage',
+              'show_type': 'double',
+              'te': '1697420498216',
+              't': '7TpKxU0RE1RFsmiyhl4KylmyPQ',
+              'stage': 2,
+              'dsc': '1',
+              'request_id': 'aafaebdc-3c2a-4aaf-adf4-81a050e042b4',
+              'ab_id': 'vMr2M3mM',
+              'ts': '1697420498095'
+            }
+          },
+          'class_type': 'RecGoodsInfoV2',
+          'id': 499968416067,
+          'tag_style': 1,
+          'hd_url': 'https://img.pddpic.com/mms-material-img/2023-07-09/15ab13d9-7b4a-427e-8f9e-0a29959c4b4a.jpeg',
+          'visible': True,
+          'rec_visible': True,
+          'price_type': 0,
+          'quantity': 100,
+          'event_type': 0,
+          'goods_type': 1,
+          'customer_num': 2,
+          'goods_id': 499968416067,
+          'price_info': '2.6',
+          'goods_show_style_type': 0,
+          'dislike_reason': {
+            'dislike_cat': {
+              'tips': '不想看: 抹布',
+              'type': 1
+            },
+            'dislike_goods': {
+              'tips': '不喜欢该商品',
+              'type': 0
+            },
+            'dislike_image': {
+              'tips': '图片引起不适',
+              'type': 2
+            },
+            'find_same_goods': {
+              'tips': '查看相似商品',
+              'link_url': 'per_similar_rec.html?source=5&goods_id=499968416067&refer_page_name=homepage'
+            }
+          },
+          'thumb_url': 'https://img.pddpic.com/gaudit-image/2023-07-09/92b07530c53de2159f3d6f1be45952fa.jpeg',
+          'sales_tip': '已拼30万+件',
+          'tag_list': [
+            {
+              'code': 15,
+              't_tag_series': 1,
+              'text': '假一赔十',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&15'
+            },
+            {
+              'code': 24,
+              't_tag_series': 1,
+              'text': '极速退款',
+              'text_color': '#9C9C9C',
+              'type': 1,
+              'tag_track_info': '1&24'
+            }
+          ],
+          'link_url': 'goods.html?goods_id=499968416067&_oak_gallery_token=e0482948899ff51a6b9665be8b2b31e0&_oak_gallery=https%3A%2F%2Fimg.pddpic.com%2Fmms-material-img%2F2023-07-09%2F15ab13d9-7b4a-427e-8f9e-0a29959c4b4a.jpeg',
+          'hd_thumb_url': 'https://img.pddpic.com/gaudit-image/2023-07-09/a41eb60488d3b10cb136bb252b467225.jpeg',
+          'is_app': 0,
+          'near_group': {
+            'list': [
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0wwVjVwcHJDUXFVRUpacUlrSnppVUE1YWZPS204YVp5Zz09djA0-1636571023?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375175972075191189
+              },
+              {
+                'avatar': 'https://avatar3.pddpic.com/a/Q0ZnSFErSmMyck1aNStDbWpnUW1kZnhSdEZKdzkvNWxjQT09djA0-1655947679?imageMogr2/thumbnail/100x',
+                'group_order_id': 2375251128738742214
+              }
+            ],
+            'bubble': '一起来买'
+          },
+          'market_price': 1519,
+          'min_on_sale_group_price': 260,
+          'image_url': 'https://img.pddpic.com/mms-material-img/2023-07-09/15ab13d9-7b4a-427e-8f9e-0a29959c4b4a.jpeg',
+          'price': 260,
+          'normal_price': 360,
+          'sales': 100000,
+          'goods_name': '擦玻璃魔力抹布不留痕专用无水印擦镜子神奇抹布家务清洁百洁布',
+          'activity_type': 0
+        },
+        'type': 0,
+        'feeds_id': '499968416067'
+      }
+    ],
+    'preload_strategy': {
+      'buffer': 4
+    }
+  },
+  'org': 'rec'
+}

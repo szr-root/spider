@@ -88,6 +88,7 @@ iv = k_v[1]
 ### 2.3.2 构建CBC解密
 aes = AES.new(key=key, mode=AES.MODE_CBC, iv=iv)
 decrpt_data = unpad(aes.decrypt(ret), 16)
+print(decrpt_data)
 re_data = json.loads(decrpt_data.decode())
 tr_Data = re_data.get('translateResult')[0][0].get('tgt')
 print(tr_Data)

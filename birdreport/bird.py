@@ -18,8 +18,11 @@ JS = execjs.compile(JsCode)
 
 page = '2'
 data_dic = {"limit": "20", "page": page}
-
+# 为了避免默认的空格 {"limit": "20", "page": "2"}
 s = json.dumps(data_dic, separators=(',', ':'))
+
+print(s)
+
 # s = '{"limit":"20","page":"2"}'
 # s = json.dumps('page=2&limit=20')
 # print(s)
@@ -70,5 +73,5 @@ asec_obj = AES.new(key=key.encode('utf8'), mode=AES.MODE_CBC, iv=iv.encode('utf8
 
 decrypt_data = asec_obj.decrypt(encrypt_data)
 decrypt_data = unpad(decrypt_data, AES.block_size)
-print(decrypt_data)
+# print(decrypt_data)
 print(decrypt_data.decode('utf8'))
