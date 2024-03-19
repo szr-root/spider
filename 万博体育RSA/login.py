@@ -6,6 +6,8 @@ import json
 import requests
 import execjs
 
+from pandas._libs.tslibs.timestamps import Timestamp
+
 with open('pwd.js', 'r') as f:
     jscode = f.read()
 

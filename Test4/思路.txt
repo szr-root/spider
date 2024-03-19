@@ -1,0 +1,27 @@
+1. 链接b64解码
+
+2. 找到链接，复制curl
+
+3.查看需要逆向的数据
+    3.1 尝试直接搜索 __zp_stoken__ ，只有2个
+
+4.找到目标位置
+    n = (new a).z(e, parseInt(t) + 60 * (480 + (new Date).getTimezoneOffset()) * 1e3)
+    4.1 发现e 值一直在变，t是时间戳+2304e5，只需要找e就行了
+
+
+5.调用栈往前看
+        e && t && i || (e = Cookie.get(GATEWAY_SEED_NAME)
+        找GATEWAY_SEED_NAME ，也就是  __zp_sseed__
+
+
+6.找了半天，发现，每次使用后，都del这个cookie，在接口set-cookies找到了
+
+7:
+ (new a).z  ------>  L.apply(null, [3901].concat(Array.prototype.slice.call(arguments)))
+ Array.prototype.slice.call(arguments)能将有length属性的对象转换为数组
+        [3901,'0N5OYksjWOYhl1yBNlyYv6R/uVjoftMHv+HVwXb2zxzm+Xjz2TYF16gehn57ALhrTyd8AhJv869BpeO3xNZ7ug==',1710595692058]
+
+8.找到L后，但是运行起来，得到结果undefined，猜测应该是确实环境变量
+        卡在这，，，，一直没得到结果。感觉离最后成功不远了。
+        但是在node-inspect好像看到最后闪了一下数据，不知道哪里出问题了。可是没时间了。。。

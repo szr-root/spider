@@ -3682,6 +3682,7 @@ try {
                 }
                 y[b("0x34d", "gRLw")][b("0x13b", "Py8b")] = y[b("0x65d", "llri")][b("0xe0", "OjB3")] = function() {
                     try {
+                        console.log('目标执行了！！')
                         var z = this["c"];
                         return z[2]() || "er"
                     } catch (B) {

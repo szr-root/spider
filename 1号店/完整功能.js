@@ -12,14 +12,14 @@ js_code += ';\n';
 
 js_code += fs.readFileSync("./源码.js");
 
-js_code += "window.jab = new JAB({},{},{});"
+js_code += "window.jab = new JAB({bizId: 'PASSPORT_LOGIN',initCaptcha: true});"
 
 function fn(){
-    debugger;
-    js_code += `\nwindow.jab.getData()`
+    // debugger;
+    js_code += `\nwindow.jab.getData();`
     return myvm.run(js_code)
 
 }
 
 data = fn()
-console.log(data)
+console.log(data,data.length)

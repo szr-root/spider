@@ -5,6 +5,10 @@ public_key = 'MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXQG8rnxhslm+2f7Epu3bB0inrnC
 var i = new JSEncrypt();
 i.setPublicKey(public_key);
 
-data = i.encrypt('12344')
-console.log(data)
+// data = i.encrypt('12344')
+// console.log(data)
 
+function encrypt_data(input_data){
+    data = i.encrypt(input_data)
+    return data
+}

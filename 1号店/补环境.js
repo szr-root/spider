@@ -1,13 +1,13 @@
 function my_proxy(obj) {
     return new Proxy(obj, {
         get(target, p, receiver) {
-            debugger;
+            // debugger;
             let val = Reflect.get(...arguments);
             console.log('get ', target, ' =获取属性>', p, ' 值=> ', val);
             return val;
         },
         set(target, p, value, receiver) {
-            debugger;
+            // debugger;
             console.log('set ', target, ' =设置属性>', p, ' 值=> ', value);
             return Reflect.set(...arguments)
         }
@@ -28,14 +28,14 @@ Image = function () {
 //     }
 // }
 // XMLHttpRequest = function (){}
-
-attachEvent = function () {
-}
-push = function () {
-}
-substring = function () {
-}
-addEventListener = function (){}
+//
+// attachEvent = function () {
+// }
+// push = function () {
+// }
+// substring = function () {
+// }
+// addEventListener = function (){}
 
 devicePixelRatio = 2
 
@@ -86,17 +86,17 @@ Document = function Document() {
 Object.setPrototypeOf(document, Document.prototype)
 
 Document.prototype.querySelectorAll = function (selector) {
-    // return {}
+    return {}
 }
 Document.prototype.attachEvent = function () {
 }
 Document.prototype.addEventListener = function () {
 }
-Document.prototype.createElement = function (tagName) {
-    return new HTMLCanvasElement()
-}
-Document.prototype.getElementsByTagName = function () {
-}
+// Document.prototype.createElement = function (tagName) {
+//     return new HTMLCanvasElement()
+// }
+// Document.prototype.getElementsByTagName = function () {
+// }
 
 // 补 window
 var window = {}
@@ -145,24 +145,24 @@ Navigator = function Navigator() {
 Object.setPrototypeOf(navigator, Navigator.prototype)
 
 
-var eventTarget = {}
-EventTarget = function EventTarget() {
-}
+// var eventTarget = {}
+// EventTarget = function EventTarget() {
+// }
+//
+// Object.setPrototypeOf(eventTarget, EventTarget.prototype)
+//
+// EventTarget.prototype.addEventListener = function (type, listener, useCapture) {
+//
+// }
 
-Object.setPrototypeOf(eventTarget, EventTarget.prototype)
-
-EventTarget.prototype.addEventListener = function (type, listener, useCapture) {
-
-}
-
-var hTMLCanvasElement = {}
-
-HTMLCanvasElement = function HTMLCanvasElement() {
-}
-Object.setPrototypeOf(hTMLCanvasElement, HTMLCanvasElement.prototype)
-HTMLCanvasElement.prototype.getContext = function (contextType) {
-    return '2d'
-}
+// var hTMLCanvasElement = {}
+//
+// HTMLCanvasElement = function HTMLCanvasElement() {
+// }
+// Object.setPrototypeOf(hTMLCanvasElement, HTMLCanvasElement.prototype)
+// HTMLCanvasElement.prototype.getContext = function (contextType) {
+//     return '2d'
+// }
 
 
 // 补screen
@@ -197,20 +197,50 @@ Storage.prototype.getItem = function () {
 }
 
 
-// 补history
-var history ={
-
+function get_null_func(name) {
+    return function (arg) {
+        // console.log('null_func --> ', name, ' --> ', arg)
+    }
 }
 
-History = function History(){
+window = global
 
+function getElementsByTagName(arg) {
+    switch (arg) {
+        case 'head':
+            return [{
+                appendChild: get_null_func('getElementsByTagName --> appendChild')
+            }]
+    }
+    // console.log('getElementsByTagName --> ', arg)
 }
 
-Object.setPrototypeOf(history,History.prototype)
-
-History.prototype.back = function (){
-
+function createElement(arg) {
+    switch (arg) {
+        case 'script':
+            return {}
+    }
+    // console.log('getElementsByTagName --> ', arg)
 }
+
+document = {
+    getElementsByTagName: getElementsByTagName, createElement: createElement, cookie: ''
+}
+
+navigator = {
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
+}
+
+Image = get_null_func('Image')
+
+function XMLHttpRequest() {
+    return {
+        open: get_null_func('XMLHttpRequest --> open')
+    }
+}
+
+setTimeout = get_null_func('setTimeout')
+
 
 
 // ======================= 设置代理 ======================= //
@@ -218,7 +248,5 @@ window = my_proxy(window)
 document = my_proxy(document)
 location = my_proxy(location)
 navigator = my_proxy(navigator)
-xMLHttpRequest = my_proxy(xMLHttpRequest)
-eventTarget = my_proxy(eventTarget)
 screen = my_proxy(screen)
 localStorage = my_proxy(localStorage)
