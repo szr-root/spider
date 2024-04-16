@@ -14,30 +14,17 @@ function my_proxy(obj) {
     });
 }
 
+Image = {}
+
 setTimeout = function () {
 }
 clearTimeout = function () {
 }
-Image = function () {
-}
-// XMLHttpRequest = function (){
-//     return {
-//         open:function () {
-//
-//         }
-//     }
-// }
-// XMLHttpRequest = function (){}
-//
-// attachEvent = function () {
-// }
-// push = function () {
-// }
-// substring = function () {
-// }
-// addEventListener = function (){}
 
-devicePixelRatio = 2
+attachEvent = function () {
+}
+addEventListener = function () {
+}
 
 var xMLHttpRequest = {}
 
@@ -55,28 +42,12 @@ XMLHttpRequest.prototype.send = function () {
 }
 
 
-chrome =
-{
-    "app": {
-        "isInstalled": false,
-        "InstallState": {
-            "DISABLED": "disabled",
-            "INSTALLED": "installed",
-            "NOT_INSTALLED": "not_installed"
-        },
-        "RunningState": {
-            "CANNOT_RUN": "cannot_run",
-            "READY_TO_RUN": "ready_to_run",
-            "RUNNING": "running"
-        }
-    }
-}
 
 // 补document
 var document = {
     referrer: 'https://passport.yhd.com/passport/login_input.do',
-    cookie: '\n' +
-        'shshshfpx=6ec76005-df4f-e21a-7740-6bcbcb8b07be-1693880993; msessionid=XHMK97T318UFATQZPJZQ5H7WZ4GW86YA8NP5; rURL=http%3A%2F%2Fwww.yhd.com; _c_id=cplq5t4wx5da023crmo1697707698428s75k; _s_id=81r8pfsya553wxebhza1697707698428bwnk; jab-requestId=""; 81r8pfsya553wxebhza1697707698428bwnk=407'
+    cookie:'shshshfpx=6ec76005-df4f-e21a-7740-6bcbcb8b07be-1693880993; _c_id=cplq5t4wx5da023crmo1697707698428s75k; msessionid=6NGAU3ZP35CVDYV4KP3BSV1UJJXE8SAHDP6M; rURL=http%3A%2F%2Fwww.yhd.com; _s_id=yimofhw2hmn4xl5n8191710765339441zmyt; jab-requestId=""',
+
 }
 
 Document = function Document() {
@@ -85,21 +56,21 @@ Document = function Document() {
 
 Object.setPrototypeOf(document, Document.prototype)
 
-Document.prototype.querySelectorAll = function (selector) {
-    return {}
-}
+Document.prototype.querySelectorAll = function () {}
+
+// Document.prototype.createElement = function (){}
+
 Document.prototype.attachEvent = function () {
 }
 Document.prototype.addEventListener = function () {
 }
-// Document.prototype.createElement = function (tagName) {
-//     return new HTMLCanvasElement()
-// }
+
 // Document.prototype.getElementsByTagName = function () {
 // }
 
 // 补 window
 var window = {}
+window = this
 
 Window = function Window() {
 
@@ -107,9 +78,13 @@ Window = function Window() {
 
 Object.setPrototypeOf(window, Window.prototype);
 
-console.log(typeof (window))
+Window.prototype.attachEvent = function () {
+}
+Window.prototype.addEventListener = function () {
+}
 
-window = this
+// console.log(typeof (window))
+
 
 
 // 补Location
@@ -130,13 +105,9 @@ Object.setPrototypeOf(location, Location.prototype)
 // 补navigator
 var navigator = {
     userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
-    mimeTypes: '',
-    plugins: '',
-    webdriver: false,
-    language:'zh-CN',
-    languages:['zh-CN', 'zh']
-
+    mimeTypes:'',
 }
+
 
 Navigator = function Navigator() {
 
@@ -144,25 +115,7 @@ Navigator = function Navigator() {
 
 Object.setPrototypeOf(navigator, Navigator.prototype)
 
-
-// var eventTarget = {}
-// EventTarget = function EventTarget() {
-// }
-//
-// Object.setPrototypeOf(eventTarget, EventTarget.prototype)
-//
-// EventTarget.prototype.addEventListener = function (type, listener, useCapture) {
-//
-// }
-
-// var hTMLCanvasElement = {}
-//
-// HTMLCanvasElement = function HTMLCanvasElement() {
-// }
-// Object.setPrototypeOf(hTMLCanvasElement, HTMLCanvasElement.prototype)
-// HTMLCanvasElement.prototype.getContext = function (contextType) {
-//     return '2d'
-// }
+Navigator.prototype.plugins = function (){}
 
 
 // 补screen
@@ -177,70 +130,16 @@ Screen = function Screen() {
 Object.setPrototypeOf(screen, Screen.prototype)
 
 
-var localStorage = {
-    "uniqueStateKey": "Ax66teplAQAAd5EIY1ktYr5vg0Kiu1m1yQO6BLgRqQuMK8BfhRGck79FhIS4AawUIfCLr4YoFOgAAAAAAAAAAA==",
-    "_dev_ha": "dcdd5770c63deb47e35549150a89ba93",
-    "__test": "1",
-    "_c_f2": "5f177533838cbd651a1519add0d0fb13v0h9"
+
+var htmlCanvasElement = {}
+
+HTMLCanvasElement = function HTMLCanvasElement() {
 
 }
 
-Storage = function Storage() {
+Object.setPrototypeOf(htmlCanvasElement, HTMLCanvasElement.prototype)
 
-}
-
-Object.setPrototypeOf(localStorage, Storage.prototype)
-
-Storage.prototype.setItem = function () {
-}
-Storage.prototype.getItem = function () {
-}
-
-
-function get_null_func(name) {
-    return function (arg) {
-        // console.log('null_func --> ', name, ' --> ', arg)
-    }
-}
-
-window = global
-
-function getElementsByTagName(arg) {
-    switch (arg) {
-        case 'head':
-            return [{
-                appendChild: get_null_func('getElementsByTagName --> appendChild')
-            }]
-    }
-    // console.log('getElementsByTagName --> ', arg)
-}
-
-function createElement(arg) {
-    switch (arg) {
-        case 'script':
-            return {}
-    }
-    // console.log('getElementsByTagName --> ', arg)
-}
-
-document = {
-    getElementsByTagName: getElementsByTagName, createElement: createElement, cookie: ''
-}
-
-navigator = {
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
-}
-
-Image = get_null_func('Image')
-
-function XMLHttpRequest() {
-    return {
-        open: get_null_func('XMLHttpRequest --> open')
-    }
-}
-
-setTimeout = get_null_func('setTimeout')
-
+HTMLCanvasElement.prototype.getContext = function (){}
 
 
 // ======================= 设置代理 ======================= //
@@ -249,4 +148,4 @@ document = my_proxy(document)
 location = my_proxy(location)
 navigator = my_proxy(navigator)
 screen = my_proxy(screen)
-localStorage = my_proxy(localStorage)
+// localStorage = my_proxy(localStorage)
