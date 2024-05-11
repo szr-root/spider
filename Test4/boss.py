@@ -65,9 +65,9 @@ import execjs
 # print(response.cookies.get('__zp_sseed__'))
 
 
-with open('完整.js','r') as f:
-   js_code = f.read()
-
-JS = execjs.compile(js_code)
-res = JS.call('fn')
-print(res)
+# with open('完整.js','r') as f:
+#    js_code = f.read()
+#
+# JS = execjs.compile(js_code)
+# res = JS.call('fn')
+# print(res)

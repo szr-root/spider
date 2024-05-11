@@ -3,6 +3,7 @@
 # @Time : 2024/03/16
 # @File : 毛毛租.py
 import base64
+import time
 
 import requests
 from Crypto.Cipher import AES
@@ -34,8 +35,9 @@ url = "https://www.maomaozu.com/index/build.json"
 
 # data = 'i1gpLEJyKvluv3sQVGr/hxonYuLBNkfnjalJYxYt5rRuafygq7gwxZDGJMDzVhqx'
 
+timestamp = int(time.time() * 1000) + 1000 * 60 * 60
 
-data = '{"Type":0,"page":2,"expire":1710582036927}'
+data = '{"Type":0,"page":3,"expire":%d}' % timestamp
 
 data = pad(data.encode(), 16)
 key = b'55b3b62613aef1a0'
@@ -43,7 +45,7 @@ iv = b'55b3b62613aef1a0'
 
 AES_obj = AES.new(key=key, mode=AES.MODE_CBC, iv=iv)
 encrypt_data = AES_obj.encrypt(data)
-print('data:::',encrypt_data)
+print('data:::', encrypt_data)
 
 encrypt_data_b64 = base64.b64encode(encrypt_data).decode()
 print(encrypt_data_b64)
@@ -63,4 +65,3 @@ encrypt_data = base64.b64decode(encrypt_data_b64)
 # encrypt_data = pad(encrypt_data,16)
 res_data = aes.decrypt(encrypt_data)
 print(res_data.decode())
-

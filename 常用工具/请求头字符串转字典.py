@@ -9,7 +9,6 @@ Connection	Keep-Alive
 Accept-Encoding	gzip
 '''
 
-
 def header_str_to_dict(header_str):
     res = [item for item in
            header_str.split('\n')]
@@ -17,13 +16,13 @@ def header_str_to_dict(header_str):
     d = {item.split('\t')[0]: item.split('\t')[1] for item in res}
     return d
 
-
 res = header_str_to_dict(header)
 print(res)
 
-# python 脚本把查询字段转成字典
-s = 'appId=32&hashSign=8356ebae71a0aa643f87ad4c5691a456&imgUrl=&lat=29.568295&lng=106.559123&loginName=18953675221&nickName=&openId=&place=%E9%87%8D%E5%BA%86&pwd=25d55ad283aa400af464c76d713c07ad&sessionId=392032c5-09c8-4c3c-bb17-16a1dc49f7fc&token=&type='
 
+# python 脚本把查询字段转成字典
+# s = 'appId=32&hashSign=8356ebae71a0aa643f87ad4c5691a456&imgUrl=&lat=29.568295&lng=106.559123&loginName=18953675221&nickName=&openId=&place=%E9%87%8D%E5%BA%86&pwd=25d55ad283aa400af464c76d713c07ad&sessionId=392032c5-09c8-4c3c-bb17-16a1dc49f7fc&token=&type='
+s = 'fromUserId=1755328&toUserId=655247&objectName=RC:TxtMsg&content={"content":"hello","extra":"helloExtra"}&isPersisted=1&disablePush=0'
 # 把它转成字典
 
 def query_to_dict(s):

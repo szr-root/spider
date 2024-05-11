@@ -580,4 +580,4 @@ require("./data2")
     u()
 }([]);
 
-console.log(window.loader('MuMZ').a("123"))
+console.log(window.loader('MuMZ').a("12345"))
