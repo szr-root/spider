@@ -4,6 +4,25 @@
 # @File : xdf.py
 
 import requests
+import execjs
+
+
+with open('xdf.js','r') as f:
+    js_code = f.read()
+
+JS = execjs.compile(js_code)
+
+
+data = {
+    "pageIndex": 4,
+    "pageSize": 12,
+    "keyword": "%E8%8B%B1%E8%AF%AD",
+    "order": "0"
+}
+
+res = JS.call('ve',data)
+params = res.get('params')
+sign = res.get('sign')
 
 
 headers = {
@@ -19,19 +38,20 @@ headers = {
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-site",
-    "sign": "65f06073d4ad01169cd4eee87edcd48d",
+    "sign": sign,
     "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
 }
 url = "https://dsapi.xdf.cn/product/v2/class/search"
-params = {
-    "appId": "5053",
-    "cityCode": "510100",
-    "t": "1715417538014",
-    "pageIndex": "2",
-    "pageSize": "12",
-    "keyword": "英语",
-    "order": "0"
-}
+# params = {
+#     "appId": "5053",
+#     "cityCode": "510100",
+#     "t": "1715417538014",
+#     "pageIndex": "2",
+#     "pageSize": "12",
+#     "keyword": "英语",
+#     "order": "0"
+# }
+
 response = requests.get(url, headers=headers, params=params)
 
 print(response.text)
