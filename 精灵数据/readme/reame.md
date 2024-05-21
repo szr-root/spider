@@ -16,3 +16,41 @@ https://vapi.jinglingshuju.com/Data/getNewsList
 这个地方就有点像了，之前断点没断住，在这里多打几个。
 4. 打了断点，重新执行，可以确定，结果就是在这里
 ![img_3.png](img_3.png)
+5. 可以看到是AES的ECB，key,iv都在。
+![img_4.png](img_4.png)
+6. 使用常用工具，obj转str
+```javascript
+function convertObjectToString(obj) {
+    if (!obj.words || !obj.sigBytes) {
+        throw new Error("Object must have 'words' and 'sigBytes' properties");
+    }
+
+    const words = obj.words;
+    const sigBytes = obj.sigBytes;
+
+    // Create an ArrayBuffer to hold the bytes
+    const byteArray = new Uint8Array(sigBytes);
+
+    // Fill the byteArray with the bytes from words
+    for (let i = 0; i < words.length; i++) {
+        const word = words[i];
+        const byteIndex = i * 4;
+        byteArray[byteIndex] = (word >> 24) & 0xFF;
+        byteArray[byteIndex + 1] = (word >> 16) & 0xFF;
+        byteArray[byteIndex + 2] = (word >> 8) & 0xFF;
+        byteArray[byteIndex + 3] = word & 0xFF;
+    }
+
+    // Convert byteArray to string
+    const str = String.fromCharCode.apply(null, new Uint8Array(byteArray));
+
+    return str;
+}
+```
+得到key，iv的值
+![img_5.png](img_5.png)
+![img_6.png](img_6.png)
+
+6. 直接用AES进行解密得到结果，不过我得到的结果看起来没有中文，是编码后的。使用decode(utf8）
+也没用，试了下json.loads才行，，，不过得到结果就行了。
+![img_7.png](img_7.png)
