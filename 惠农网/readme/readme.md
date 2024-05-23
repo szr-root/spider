@@ -56,3 +56,26 @@ K = {
 ![img_16.png](img_16.png)
 13. 同样在K相同，运行打印一下确保浏览器和js得到的值是一样的
 ![img_17.png](img_17.png)
+14. 遇到第二个难点，
+![img_18.png](img_18.png)
+`D = h["fromString"](C, !0, 16)["toUnsigned"]()["toString"](10)`
+运行，找到不到fromString
+15. 通过h找fromString位置
+![img_19.png](img_19.png)
+16. 找到了一个webpack的地方，只扣这一块函数代码，把这个函数赋给全局变量改造一下自执行
+运行得到结果，与浏览器对比
+![img_20.png](img_20.png)
+![img_22.png](img_22.png)
+![img_21.png](img_21.png)
+17. 最后终于得到了sign值，与浏览器得到的结果比对，一致的。
+![img_23.png](img_23.png)
+18. 现在回到最开始，找到K值是怎么得来的
+```javascript
+     K = {nonce: head[$("0x63", "CQ]W") + $("0x30", "9GkD") + $("0x49", "J7to") + "NONCE"],
+            timestamp: String(head[$("0x28", "g0vo") + "LIE" + $("0x49", "J7to") + $("0x53", "9GkD") + "E"]),
+            deviceId: head["X-C" + $("0x6", "@ycV") + "NT-ID"],
+            secret: t[$("0x42", "&J@X") + "v"][$("0x2b", "jOT4") + "pp"] ? V : W ? H : z,
+            secretType: t[$("0xc", "2w[1") + "v"][$("0x1a", "eBRZ") + "pp"] ? 1 : W ? 3 : 2
+        };
+```
+19. 最开始传入的
